@@ -1,6 +1,6 @@
 # Sample Streamlit App for YouTube viewer
 
-## Screenshots
+## Screenshot
 ![Screenshot](demo.jpg?raw=true)
 
 
